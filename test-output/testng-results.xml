@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6" started-at="2017-01-19T23:06:35Z" finished-at="2017-01-19T23:06:35Z">
+  <suite name="EliteCarrer Automation Suite" duration-ms="7" started-at="2017-01-27T07:47:25Z" finished-at="2017-01-27T07:47:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6" started-at="2017-01-19T23:06:35Z" finished-at="2017-01-19T23:06:35Z">
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    <test name="EliteCareer Regression Test" duration-ms="7" started-at="2017-01-27T07:47:25Z" finished-at="2017-01-27T07:47:25Z">
+    </test> <!-- EliteCareer Regression Test -->
+  </suite> <!-- EliteCarrer Automation Suite -->
 </testng-results>
